@@ -18,7 +18,7 @@ I build React and Next.js frontends, Python (FastAPI, Django, Flask) and Node.js
 | Project | What it is | Stack |
 |---|---|---|
 | [**GraphRAG**](https://github.com/Rishikeshk9/graphrag-assessment) | Local-first GraphRAG app: hierarchical chunking, typed entity graph in Neo4j, grounded answers with citations and a live graph inspector. [Live demo](https://ragchat.rushikeshkardile.com/) · [Video](https://youtu.be/gSqgwvoNEIs) | Python, FastAPI, Neo4j, Qdrant, Ollama, React |
-| [**Planwise**](https://day-planner-blue.vercel.app) | AI day planner for iPhone and Android, live on the App Store, with sign-in, subscriptions and WhatsApp reminders. | React Native, TypeScript, Node.js |
+| [**Planwise**](https://planwise.today) | AI day planner for iPhone and Android, live on the App Store, with sign-in, subscriptions and WhatsApp reminders. | React Native, TypeScript, Node.js |
 | **Notchy** | macOS notch companion with clock, weather and Claude-powered screen explanations, hidden from screen capture. | Swift, SwiftUI |
 | [**RentKaka**](https://rentkaka.in) | Rent management for landlords running rooms, PGs and hostels: tenants, leases, rent, electricity bills and complaints. | Expo (React Native), TypeScript, Supabase |
 | [**Cactus**](https://github.com/Rishikeshk9/cactus) | Decentralised AI inference protocol: orchestrator nodes and routing servers that run AI jobs across a GPU network. | Rust, Python, Move |
